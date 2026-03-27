@@ -195,7 +195,7 @@ nav {
 .hero-bg-img {
     position: absolute;
     inset: -6px; /* slack for glitch translate */
-    background: url('../images/Core_Updated.png') center center / cover no-repeat;
+    background: url('../images/Core_Dump.png') center center / cover no-repeat;
     z-index: 0;
     animation: glitchShift 5s steps(1) infinite;
     will-change: transform, filter;
@@ -215,7 +215,7 @@ nav {
 .hero-bg-img-b {
     position: absolute;
     inset: -6px;
-    background: url('../images/Core_Updated.png') center center / cover no-repeat;
+    background: url('../images/Core_Dump.png') center center / cover no-repeat;
     z-index: 0;
     mix-blend-mode: screen;
     opacity: 0;
